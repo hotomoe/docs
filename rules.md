@@ -1,9 +1,7 @@
-## hotomoe rules
-0. 상식적으로 행동하세요.
-1. 다른 사람을 존중하세요. 특히, 성별, 인종, 종교, 국적, 성적 지향, 정치적 성향 등에 대한 차별을 하지 마세요.
-2. CW/NSFW 기능을 적극적으로 사용하세요. 특히, 성적이거나 폭력적인 컨텐츠는 꼭 해당 기능을 사용해주세요.
-3. hotomoe는 이하의 릴레이에 참여하고 있습니다. 공개 노트를 게시할 때는 위 규칙을 포함하여 아래 각 릴레이의 규칙 준수가 필요합니다. 이하의 규칙을 준수하지 않을 경우 공개 노트 발행이 제한될 수 있습니다.
-    1. [Interstellar Relay Community](https://interstellar.flights/)
-       1. 인종/성 지향 및 정체성/장애/지역 및 국적 등을 이유로 다른 사람을 차별하는 행위를 금지
+## hotomoe Rules
+0. Act with common sense.
+1. Respect others. Specifically, do not engage in discrimination based on gender, race, religion, nationality, sexual orientation, or political orientation.
+2. Make active use of the CW (Content Warning) and NSFW (Not Safe For Work) features. Particularly, ensure to use these features for sexual or violent content.
+3. hotomoe participates in the following relays. When publishing public notes, you must adhere to the rules below, in addition to the above regulations. If these rules are not followed, the publication of public notes may be restricted.
     1. [No-Stress-Relay](https://nsr.life/)
-       1. TL;DR: 피로한 게시글의 CW 없는 작성 금지. 자세한 내용은 홈페이지를 참고하세요.
+        1. TL;DR: Do not post exhausting content without a CW. For more details, please refer to the website.
